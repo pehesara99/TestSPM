@@ -1,3 +1,2 @@
 # TestSPM
-
-Introduction to Version Control
+Version Control
